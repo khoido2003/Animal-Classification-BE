@@ -1,0 +1,57 @@
+2024-05-10 09:03:29,739 - E:\ai-ptit\AI_PTIT\models\animal_predictor.py - INFO - Starting Model Serving
+2024-05-10 09:04:43,686 - E:\ai-ptit\AI_PTIT\models\animal_predictor.py - INFO - Predictor name: animal
+2024-05-10 09:04:43,687 - E:\ai-ptit\AI_PTIT\models\animal_predictor.py - INFO - Predicted Prob: 1.0 - Predicted ID: 1 - Predicted Class: cat
+2024-05-10 09:06:56,525 - E:\ai-ptit\AI_PTIT\models\animal_predictor.py - INFO - Predictor name: animal
+2024-05-10 09:06:56,526 - E:\ai-ptit\AI_PTIT\models\animal_predictor.py - INFO - Predicted Prob: 1.0 - Predicted ID: 1 - Predicted Class: cat
+2024-05-10 09:07:32,345 - E:\ai-ptit\AI_PTIT\models\animal_predictor.py - INFO - Predictor name: animal
+2024-05-10 09:07:32,345 - E:\ai-ptit\AI_PTIT\models\animal_predictor.py - INFO - Predicted Prob: 1.0 - Predicted ID: 7 - Predicted Class: sheep
+2024-05-10 09:09:06,564 - E:\ai-ptit\AI_PTIT\models\animal_predictor.py - INFO - Predictor name: animal
+2024-05-10 09:09:06,565 - E:\ai-ptit\AI_PTIT\models\animal_predictor.py - INFO - Predicted Prob: 1.0 - Predicted ID: 0 - Predicted Class: butterfly
+2024-05-10 09:10:08,773 - E:\ai-ptit\AI_PTIT\models\animal_predictor.py - INFO - Predictor name: animal
+2024-05-10 09:10:08,773 - E:\ai-ptit\AI_PTIT\models\animal_predictor.py - INFO - Predicted Prob: 1.0 - Predicted ID: 0 - Predicted Class: butterfly
+2024-05-10 09:14:49,543 - E:\ai-ptit\AI_PTIT\models\animal_predictor.py - INFO - Predictor name: animal
+2024-05-10 09:14:49,544 - E:\ai-ptit\AI_PTIT\models\animal_predictor.py - INFO - Predicted Prob: 1.0 - Predicted ID: 0 - Predicted Class: butterfly
+2024-05-10 09:16:49,504 - E:\ai-ptit\AI_PTIT\models\animal_predictor.py - INFO - Predictor name: animal
+2024-05-10 09:16:49,504 - E:\ai-ptit\AI_PTIT\models\animal_predictor.py - INFO - Predicted Prob: 0.969814 - Predicted ID: 5 - Predicted Class: elephant
+2024-05-10 09:20:38,308 - E:\ai-ptit\AI_PTIT\models\animal_predictor.py - INFO - Predictor name: animal
+2024-05-10 09:20:38,309 - E:\ai-ptit\AI_PTIT\models\animal_predictor.py - INFO - Predicted Prob: 0.969814 - Predicted ID: 5 - Predicted Class: elephant
+2024-05-10 09:20:47,996 - E:\ai-ptit\AI_PTIT\models\animal_predictor.py - INFO - Predictor name: animal
+2024-05-10 09:20:47,998 - E:\ai-ptit\AI_PTIT\models\animal_predictor.py - INFO - Predicted Prob: 0.934822 - Predicted ID: 1 - Predicted Class: cat
+2024-05-10 09:21:34,828 - E:\ai-ptit\AI_PTIT\models\animal_predictor.py - INFO - Predictor name: animal
+2024-05-10 09:21:34,828 - E:\ai-ptit\AI_PTIT\models\animal_predictor.py - INFO - Predicted Prob: 0.348634 - Predicted ID: 6 - Predicted Class: horse
+2024-05-10 11:10:29,773 - E:\ai-ptit\AI_PTIT\models\animal_predictor.py - INFO - Starting Model Serving
+2024-05-10 11:12:07,118 - E:\ai-ptit\AI_PTIT\models\animal_predictor.py - INFO - Predictor name: animal
+2024-05-10 11:12:07,119 - E:\ai-ptit\AI_PTIT\models\animal_predictor.py - INFO - Predicted Prob: 1.0 - Predicted ID: 1 - Predicted Class: cat
+2024-05-10 11:12:25,799 - E:\ai-ptit\AI_PTIT\models\animal_predictor.py - INFO - Predictor name: animal
+2024-05-10 11:12:25,800 - E:\ai-ptit\AI_PTIT\models\animal_predictor.py - INFO - Predicted Prob: 1.0 - Predicted ID: 7 - Predicted Class: sheep
+2024-05-10 11:12:42,744 - E:\ai-ptit\AI_PTIT\models\animal_predictor.py - INFO - Predictor name: animal
+2024-05-10 11:12:42,745 - E:\ai-ptit\AI_PTIT\models\animal_predictor.py - INFO - Predicted Prob: 1.0 - Predicted ID: 0 - Predicted Class: butterfly
+2024-05-10 15:00:10,666 - E:\ai-ptit\AI_PTIT\models\animal_predictor.py - INFO - Starting Model Serving
+2024-05-10 15:00:58,950 - E:\ai-ptit\AI_PTIT\models\animal_predictor.py - INFO - Predictor name: animal
+2024-05-10 15:00:58,958 - E:\ai-ptit\AI_PTIT\models\animal_predictor.py - INFO - Predicted Prob: 1.0 - Predicted ID: 1 - Predicted Class: cat
+2024-05-10 15:09:24,808 - E:\ai-ptit\AI_PTIT\models\animal_predictor.py - INFO - Predictor name: animal
+2024-05-10 15:09:24,809 - E:\ai-ptit\AI_PTIT\models\animal_predictor.py - INFO - Predicted Prob: 0.348634 - Predicted ID: 6 - Predicted Class: horse
+2024-05-10 15:11:07,021 - E:\ai-ptit\AI_PTIT\models\animal_predictor.py - INFO - Starting Model Serving
+2024-05-10 15:11:22,641 - E:\ai-ptit\AI_PTIT\models\animal_predictor.py - INFO - Predictor name: animal
+2024-05-10 15:11:22,643 - E:\ai-ptit\AI_PTIT\models\animal_predictor.py - INFO - Predicted Prob: 1.0 - Predicted ID: 1 - Predicted Class: cat
+2024-05-10 15:12:05,150 - E:\ai-ptit\AI_PTIT\models\animal_predictor.py - INFO - Predictor name: animal
+2024-05-10 15:12:05,152 - E:\ai-ptit\AI_PTIT\models\animal_predictor.py - INFO - Predicted Prob: 0.999762 - Predicted ID: 9 - Predicted Class: squirrel
+2024-05-10 15:14:32,792 - E:\ai-ptit\AI_PTIT\models\animal_predictor.py - INFO - Predictor name: animal
+2024-05-10 15:14:32,793 - E:\ai-ptit\AI_PTIT\models\animal_predictor.py - INFO - Predicted Prob: 1.0 - Predicted ID: 1 - Predicted Class: cat
+2024-05-10 16:31:00,829 - E:\ai-ptit\AI_PTIT\models\animal_predictor.py - INFO - Starting Model Serving
+2024-05-10 16:31:56,884 - E:\ai-ptit\AI_PTIT\models\animal_predictor.py - INFO - Predictor name: animal
+2024-05-10 16:31:56,886 - E:\ai-ptit\AI_PTIT\models\animal_predictor.py - INFO - Predicted Prob: 0.999997 - Predicted ID: 4 - Predicted Class: dog
+2024-05-10 16:32:49,214 - E:\ai-ptit\AI_PTIT\models\animal_predictor.py - INFO - Predictor name: animal
+2024-05-10 16:32:49,215 - E:\ai-ptit\AI_PTIT\models\animal_predictor.py - INFO - Predicted Prob: 0.999998 - Predicted ID: 1 - Predicted Class: cat
+2024-05-10 16:34:08,910 - E:\ai-ptit\AI_PTIT\models\animal_predictor.py - INFO - Predictor name: animal
+2024-05-10 16:34:08,911 - E:\ai-ptit\AI_PTIT\models\animal_predictor.py - INFO - Predicted Prob: 0.970616 - Predicted ID: 5 - Predicted Class: elephant
+2024-05-10 16:35:01,197 - E:\ai-ptit\AI_PTIT\models\animal_predictor.py - INFO - Predictor name: animal
+2024-05-10 16:35:01,198 - E:\ai-ptit\AI_PTIT\models\animal_predictor.py - INFO - Predicted Prob: 0.999762 - Predicted ID: 9 - Predicted Class: squirrel
+2024-05-10 16:36:12,764 - E:\ai-ptit\AI_PTIT\models\animal_predictor.py - INFO - Predictor name: animal
+2024-05-10 16:36:12,765 - E:\ai-ptit\AI_PTIT\models\animal_predictor.py - INFO - Predicted Prob: 0.981564 - Predicted ID: 1 - Predicted Class: cat
+2024-05-10 16:36:58,424 - E:\ai-ptit\AI_PTIT\models\animal_predictor.py - INFO - Predictor name: animal
+2024-05-10 16:36:58,425 - E:\ai-ptit\AI_PTIT\models\animal_predictor.py - INFO - Predicted Prob: 0.990877 - Predicted ID: 6 - Predicted Class: horse
+2024-05-10 16:37:55,274 - E:\ai-ptit\AI_PTIT\models\animal_predictor.py - INFO - Predictor name: animal
+2024-05-10 16:37:55,275 - E:\ai-ptit\AI_PTIT\models\animal_predictor.py - INFO - Predicted Prob: 0.968731 - Predicted ID: 4 - Predicted Class: dog
+2024-05-10 16:38:26,144 - E:\ai-ptit\AI_PTIT\models\animal_predictor.py - INFO - Predictor name: animal
+2024-05-10 16:38:26,144 - E:\ai-ptit\AI_PTIT\models\animal_predictor.py - INFO - Predicted Prob: 1.0 - Predicted ID: 1 - Predicted Class: cat

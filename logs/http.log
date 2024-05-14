@@ -1,0 +1,15 @@
+2024-05-10 11:12:25,803 - E:\ai-ptit\AI_PTIT\middleware\http.py - INFO - 127.0.0.1 - "POST /animal_classification/predict 1.1" 200 0.07s
+2024-05-10 11:12:42,746 - E:\ai-ptit\AI_PTIT\middleware\http.py - INFO - 127.0.0.1 - "POST /animal_classification/predict 1.1" 200 0.07s
+2024-05-10 15:00:58,964 - E:\ai-ptit\AI_PTIT\middleware\http.py - INFO - 127.0.0.1 - "POST /animal_classification/predict 1.1" 200 0.20s
+2024-05-10 15:09:24,820 - E:\ai-ptit\AI_PTIT\middleware\http.py - INFO - 127.0.0.1 - "POST /animal_classification/predict 1.1" 200 0.60s
+2024-05-10 15:11:22,646 - E:\ai-ptit\AI_PTIT\middleware\http.py - INFO - 127.0.0.1 - "POST /animal_classification/predict 1.1" 200 0.14s
+2024-05-10 15:12:05,153 - E:\ai-ptit\AI_PTIT\middleware\http.py - INFO - 127.0.0.1 - "POST /animal_classification/predict 1.1" 200 0.14s
+2024-05-10 15:14:32,797 - E:\ai-ptit\AI_PTIT\middleware\http.py - INFO - 127.0.0.1 - "POST /animal_classification/predict 1.1" 200 0.10s
+2024-05-10 16:31:56,889 - E:\ai-ptit\AI_PTIT\middleware\http.py - INFO - 127.0.0.1 - "POST /animal_classification/predict 1.1" 200 0.11s
+2024-05-10 16:32:49,282 - E:\ai-ptit\AI_PTIT\middleware\http.py - INFO - 127.0.0.1 - "POST /animal_classification/predict 1.1" 200 1.60s
+2024-05-10 16:34:08,916 - E:\ai-ptit\AI_PTIT\middleware\http.py - INFO - 127.0.0.1 - "POST /animal_classification/predict 1.1" 200 0.17s
+2024-05-10 16:35:01,200 - E:\ai-ptit\AI_PTIT\middleware\http.py - INFO - 127.0.0.1 - "POST /animal_classification/predict 1.1" 200 0.10s
+2024-05-10 16:36:12,768 - E:\ai-ptit\AI_PTIT\middleware\http.py - INFO - 127.0.0.1 - "POST /animal_classification/predict 1.1" 200 0.07s
+2024-05-10 16:36:58,428 - E:\ai-ptit\AI_PTIT\middleware\http.py - INFO - 127.0.0.1 - "POST /animal_classification/predict 1.1" 200 0.11s
+2024-05-10 16:37:55,278 - E:\ai-ptit\AI_PTIT\middleware\http.py - INFO - 127.0.0.1 - "POST /animal_classification/predict 1.1" 200 0.10s
+2024-05-10 16:38:26,147 - E:\ai-ptit\AI_PTIT\middleware\http.py - INFO - 127.0.0.1 - "POST /animal_classification/predict 1.1" 200 0.10s
